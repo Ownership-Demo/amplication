@@ -21,7 +21,7 @@ If you'd like to implement a new feature, it's always good to be in touch with u
 
 ## What do you need to know to help?
 
-If you want to help out with a code contribution, our project uses the following stack:
+If you want to help out with a codee contribution, our project uses the following stack:
 
 ### Server-side
 
